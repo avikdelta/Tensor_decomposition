@@ -1,6 +1,6 @@
 # Tensor Decomposition Algorithm for GMM
 
-Algorithms for estimating means of a Gaussian mixture model using Tensor decomposition. The algorithm is based on robust tensor power iterations, and is described in the following papers.
+Algorithm for estimating means of a Gaussian mixture model using Tensor decomposition. The algorithm is based on robust tensor power iterations, and is described in the following papers.
 
 1. Hsu, Daniel, and Sham M. Kakade. "Learning mixtures of spherical gaussians: moment methods and spectral decompositions." Proceedings of the 4th conference on Innovations in Theoretical Computer Science. ACM, 2013.
 
