@@ -1,2 +1,3 @@
-# Tensor_decomposition
+# Tensor Decomposition Algorithms
+
 Algorithms for tensor decomposition
